@@ -27,15 +27,13 @@
 					<tr>
 						<td style="border: 0px solid black; border-spacing: 0px;">
 							<p class="context textContact" style="padding: 0; font-family: Microsoft JhengHei; margin: 0; display: block; vertical-align: top; font-weight: regular; color: #000000; font-size: 12px; line-height: 22px;">最終錄取結果將於<span style="font-weight: bold;"> 03/15</span> 前通知。<br>若有任何疑問或困難，歡迎回信或者透過 Telegram 詢問</p>
-							<a href="https://t.me/Ti_wb" target="_blank" class="btnContact" style="display: inline-block; margin: 8pt 0 0 0; background: #FDFDFD; padding: 2px 8px; border: 2px solid #77B55A; border-radius: 7px; text-decoration: none;">
-								<table height="27px" style="border: 0px solid black; border-spacing: 0px;">
+							<a href="https://t.me/Ti_wb" target="_blank" class="btnContact" style="display: inline-block; margin: 8pt 0 0 0; background: #FDFDFD; padding: 6px 8px 5px 8px; border: 2px solid #77B55A; border-radius: 7px; text-decoration: none;">
+								<table style="border: 0px solid black; border-spacing: 0px;">
 									<tr>
-										<td valign="bottom" style="border: 0px solid black; border-spacing: 0px; padding: 0 0 2px 0;">
-											<img src="https://raw.githubusercontent.com/lemonjie/tempStorage/main/TG_Icon.png" width="19px">
-										</td>
-										<td style="border: 0px solid black; border-spacing: 0px; width: 4px;" width="4"></td>
-										<td style="border: 0px solid black; border-spacing: 0px;">
-											<p style="padding: 0; margin: 0; color: #77B55A; font-family: Helvetica; font-size: 12px; font-weight: bold; text-decoration: none; text-align: center;">@Ti_wb</p>
+										<td valign="middle" style="border: 0px solid black; border-spacing: 0px; padding: 0 0 2pt 0;">
+											<img src="https://raw.githubusercontent.com/lemonjie/tempStorage/main/TG_Icon.png" width="19px" style="vertical-align:middle;display:inline-block">
+										
+											<p style="padding: 0; display: inline-block; color: #77B55A; font-family: Microsoft JhengHei; font-size: 12px; font-weight: bold; text-decoration: none; vertical-align: middle; line-height: 20px; margin: 0 0 0 3px;">@Ti_wb</p><p style="font-weight: regular; padding: 0; margin: 0; font-family: Microsoft JhengHei; display: inline-block; height: 20px; width: 2px; vertical-align: middle;"></p>
 										</td>
 									</tr>
 								</table>
