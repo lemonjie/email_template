@@ -1,0 +1,76 @@
+<body style="margin: 0; padding: 0;">
+	<table width="100%" style="border: 0px solid black; border-spacing: 0px;">
+		<tr>
+			<td style="border: 0px solid black; border-spacing: 0px;">
+				<table class="body" style="border: 0px solid black; border-spacing: 0px; background-color: #FDFDFD; padding: 36px 24px 0 24px; width: 600px; margin: auto;" width="600" bgcolor="#FDFDFD">
+					<tr>
+						<td class="backTitle displayOnDesktop" style="border: 0px solid black; border-spacing: 0px; text-align: center; display: block;" align="center">
+							<p class="titleSign" style="padding: 0; font-family: Microsoft JhengHei; font-weight: bold; color: #646464; font-size: 12px; line-height: 17px; display: block; margin: 11px 0 0 0;">SITCON Camp 2021 設計組</p>
+							<p class="title" style="padding: 0; font-family: Microsoft JhengHei; font-weight: bold; color: #000000; font-size: 24px; line-height: 35px; display: block; margin: 5px 0 7px 0;">第一階段結果通知信</p>
+						</td>
+					</tr>
+					<tr>
+						<td class="displayOnMobile" style="border: 0px solid black; border-spacing: 0px; display: none;">
+							<img src="https://raw.githubusercontent.com/lemonjie/tempStorage/main/title_moble.png" width="100%">
+						</td>
+					</tr>
+					<tr>
+						<td style="border: 0px solid black; border-spacing: 0px;">
+							<h1 style="color: #1C1C1C; font-size: 18px; font-weight: bold; line-height: 26px; font-family: Microsoft JhengHei; margin: 22px 0;">{nickname}，您好</h1>
+							<p class="contextCongrat" style="padding: 0; font-family: Microsoft JhengHei; font-weight: regular; color: #000000; font-size: 12px; line-height: 20px; margin: 0;">十分感謝您參與今年度招募<br>很遺憾，您<span style="font-weight: bold;"><span style="color: #DD6868;">未錄取</span> SITCON Camp 2021 設計組</span></p>
+							<p class="context" style="padding: 0; font-family: Microsoft JhengHei; font-weight: regular; color: #000000; font-size: 12px; line-height: 22px; margin: 0;"><br>{Test Reason}，今年的參與十分活躍，因此我們將優先錄取其他人選。<br><br>雖然並未入選今年度設計組，但你仍然能參與今年 SITCON Camp 的籌備<br><br>SITCON 本身屬於開源社群，籌備期間許多事項也都會透過公開的 Mailing-list 討論，若你對活動籌備有些想法，也歡迎加入我們的 Mailing-list 參與信件討論，抑或加入 SITCON 的 Telegram 群組聊聊天。<br><br>一個社群是由許多不同的參與者所組成，成為工作人員只是其中一種方式。<br>期待將來在 SITCON 社群內看到你的參與 ~<br><br>若有任何疑問或困難，歡迎回信或者透過 Telegram 詢問</p>
+							<a href="https://t.me/Ti_wb" target="_blank" class="btnContact" style="display: inline-block; margin: 8pt 0 0 0; background: #FDFDFD; padding: 6px 8px 5px 8px; border: 2px solid #77B55A; border-radius: 7px; text-decoration: none;">
+								<table style="border: 0px solid black; border-spacing: 0px;">
+									<tr>
+										<td valign="middle" style="border: 0px solid black; border-spacing: 0px; padding: 0 0 2pt 0;">
+											<img src="https://raw.githubusercontent.com/lemonjie/tempStorage/main/TG_Icon.png" width="19px" style="vertical-align:middle;display:inline-block">
+										
+											<p style="padding: 0; display: inline-block; color: #77B55A; font-family: Microsoft JhengHei; font-size: 12px; font-weight: bold; text-decoration: none; vertical-align: middle; line-height: 20px; margin: 0 0 0 3px;">@Ti_wb</p><p style="font-weight: regular; padding: 0; margin: 0; font-family: Microsoft JhengHei; display: inline-block; height: 20px; width: 2px; vertical-align: middle;"></p>
+										</td>
+									</tr>
+								</table>
+							</a>
+
+						</td>
+					</tr>
+					<tr>
+						<td style="border: 0px solid black; border-spacing: 0px;">
+							<p class="context" style="padding: 0; font-family: Microsoft JhengHei; font-weight: regular; color: #000000; font-size: 12px; line-height: 22px; margin: 24pt 0 32pt 0;">SITCON Camp 2021 設計組</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="border: 0px solid black; border-spacing: 0px;">
+							<p class="divider" style="font-weight: regular; font-family: Microsoft JhengHei; padding: 0px; margin: auto; border-top: solid 1px #707070; width: 94px;"></p>
+							<p class="context" style="padding: 0; font-family: Microsoft JhengHei; font-weight: regular; color: #000000; font-size: 12px; line-height: 22px; margin: 12pt 0 12pt 0; text-align: center;"><strong>關注 SITCON 籌備訊息</strong></p>
+						</td>
+					</tr>
+					<tr>
+						<td align="center" style="border: 0px solid black; border-spacing: 0px;">
+							<a href="https://groups.google.com/g/sitcon-general" style="display: inline-block; background: #FDFDFD; color: #77B55A; font-size: 12px; font-weight: bold; text-align: center; text-decoration: none; margin: 5px 6px; border: 2px solid #77B55A; border-radius: 7px; font-family: Microsoft JhengHei; padding: 8px 18px;" target="_blank" class="btnFollow">郵件論壇</a>
+							<a href="https://sitcon.org/fb" style="display: inline-block; background: #FDFDFD; color: #77B55A; font-size: 12px; font-weight: bold; text-align: center; text-decoration: none; margin: 5px 6px; border: 2px solid #77B55A; border-radius: 7px; font-family: Microsoft JhengHei; padding: 8px 12px;" target="_blank" class="btnFollow">Facebook 粉絲專頁</a>
+							<a href="https://sitcon.org/tg" style="display: inline-block; background: #FDFDFD; color: #77B55A; font-size: 12px; font-weight: bold; text-align: center; text-decoration: none; margin: 5px 6px; border: 2px solid #77B55A; border-radius: 7px; font-family: Microsoft JhengHei; padding: 8px 13px;" target="_blank" class="btnFollow">Telegram 群組</a>
+						</td>
+					</tr>
+					<tr>
+						<td style="border: 0px solid black; border-spacing: 0px;">
+							<p style="font-weight: regular; padding: 0; font-family: Microsoft JhengHei; margin: 0 0 34px 0;"></p>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td style="border: 0px solid black; border-spacing: 0px;">
+				<table class="footer" style="border: 0px solid black; border-spacing: 0px; width: 600px; margin: auto;" width="600">
+					<tr>
+						<td style="border: 0px solid black; border-spacing: 0px;">
+							
+								<img src="https://raw.githubusercontent.com/lemonjie/tempStorage/main/Group%208%402x.png" width="100%">
+							
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+</body>
