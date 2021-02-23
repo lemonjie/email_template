@@ -1,0 +1,86 @@
+<body style="margin: 0; padding: 0;">
+	<table width="100%" style="border: 0px solid black; border-spacing: 0px;">
+		<tr>
+			<td style="border: 0px solid black; border-spacing: 0px;">
+				<table class="body" style="border: 0px solid black; border-spacing: 0px; background-color: #FDFDFD; padding: 36px 24px 0 24px; width: 600px; margin: auto;" width="600" bgcolor="#FDFDFD">
+					<tr>
+						<td class="backTitle displayOnDesktop" style="border: 0px solid black; border-spacing: 0px; text-align: center; display: block;" align="center">
+							<p class="titleSign" style="padding: 0; font-weight: bold; color: #646464; font-size: 12px; line-height: 17px; display: block; margin: 11px 0 0 0;">SITCON Camp 2021 設計組</p>
+							<p class="title" style="padding: 0; font-weight: bold; color: #000000; font-size: 24px; line-height: 35px; display: block; margin: 5px 0 7px 0;">第一階段結果通知信</p>
+						</td>
+					</tr>
+					<tr>
+						<td class="displayOnMobile" style="border: 0px solid black; border-spacing: 0px; display: none;">
+							<img src="https://raw.githubusercontent.com/lemonjie/tempStorage/main/title_moble.png" width="100%">
+						</td>
+					</tr>
+					<tr>
+						<td style="border: 0px solid black; border-spacing: 0px;">
+							<h1 style="color: #1C1C1C; font-size: 18px; font-weight: bold; line-height: 26px; margin: 22px 0;">{nickname}，您好</h1>
+							<p class="contextCongrat" style="padding: 0; font-weight: regular; color: #000000; font-size: 12px; line-height: 20px; margin: 0;">十分感謝你參與 SITCON Camp 2021 設計組招募<br>恭喜你<span style="font-weight: bold;"><span style="color: #77B55A;">通過</span>第一階段的篩選</span></p>
+							<p class="context" style="padding: 0; font-weight: regular; color: #000000; font-size: 12px; line-height: 22px; margin: 0;"><br>在詳細閱讀你所填寫的內容後，{placeholder}，並希望能夠進一步了解你的想法與專長，因此想邀請您與我們進行一場線上會談。<br><br>你可以在會談中進一步分享想參與的事項，或者了解更多關於參與 SITCON 的細節；我們也會介紹設計組的協作方式、大致的籌備項目與與時間規劃等。</p>
+							<h2 style="color: #000000; font-size: 16px; font-weight: bold; line-height: 22px; margin: 22px 0 17pt 0;">會談時間與細節</h2>
+							<p class="context" style="padding: 0; font-weight: regular; color: #000000; font-size: 12px; line-height: 22px; margin: 0;">我們預計在 <span style="font-weight: bold;">02/26~03/13</span> 這段期間完成面談，可進行的時間如下：<br>平日：下午六點至晚上十點<br>假日：下午一點至晚上十點<br><br>進行時間約<span style="font-weight: bold;">一小時</span>。<br>請在 <span style="font-weight: bold;">02/xx</span> 前回信告知方便的時間，我們會與你聯絡確認。</p>
+							<p class="info" style="font-weight: regular; padding: 14px 20px; background: #D9EDF7; color: #31708F; font-size: 12px; line-height: 22px; mso-padding-alt: 0; border: 1px solid #C1D6EF; border-radius: 6px; margin: 24pt 0;">線上面談將採用 Google Meet 進行，參與前請確保有適合的設備<br>（建議使用電腦，並確認麥克風正常）</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="border: 0px solid black; border-spacing: 0px;">
+							<p class="context textContact" style="padding: 0; margin: 0; display: block; vertical-align: top; font-weight: regular; color: #000000; font-size: 12px; line-height: 22px;">最終錄取結果將於<span style="font-weight: bold;"> 03/15</span> 前通知。<br>若有任何疑問或困難，歡迎回信或者透過 Telegram 詢問</p>
+							<a href="https://t.me/Ti_wb" target="_blank" class="btnContact" style="display: inline-block; margin: 8pt 0 0 0; background: #FDFDFD; padding: 5px 8px; border: 2px solid #77B55A; border-radius: 7px; text-decoration: none;">
+								<table height="27px" style="border: 0px solid black; border-spacing: 0px;">
+									<tr>
+										<td valign="bottom" style="border: 0px solid black; border-spacing: 0px; padding: 0 0 2px 0;">
+											<img src="https://raw.githubusercontent.com/lemonjie/tempStorage/main/TG_Icon.png" width="19px">
+										</td>
+										<td style="border: 0px solid black; border-spacing: 0px; width: 4px;" width="4"></td>
+										<td style="border: 0px solid black; border-spacing: 0px;">
+											<p style="padding: 0; margin: 0; color: #77B55A; font-family: Helvetica; font-size: 12px; font-weight: bold; text-decoration: none; text-align: center;">@Ti_wb</p>
+										</td>
+									</tr>
+								</table>
+							</a>
+
+						</td>
+					</tr>
+					<tr>
+						<td style="border: 0px solid black; border-spacing: 0px;">
+							<p class="context" style="padding: 0; font-weight: regular; color: #000000; font-size: 12px; line-height: 22px; margin: 24pt 0 32pt 0;">期待在 SITCON Camp 與你相見！<br><br>SITCON Camp 2021 設計組</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="border: 0px solid black; border-spacing: 0px;">
+							<p class="divider" style="font-weight: regular; padding: 0px; margin: auto; border-top: solid 1px #707070; width: 94px;"></p>
+							<p class="context" style="padding: 0; font-weight: regular; color: #000000; font-size: 12px; line-height: 22px; margin: 12pt 0 12pt 0; text-align: center;"><strong>關注 SITCON 籌備訊息</strong></p>
+						</td>
+					</tr>
+					<tr>
+						<td align="center" style="border: 0px solid black; border-spacing: 0px;">
+							<a href="https://groups.google.com/g/sitcon-general" style="display: inline-block; background: #FDFDFD; color: #77B55A; font-family: Helvetica; font-size: 12px; font-weight: bold; text-align: center; text-decoration: none; margin: 5px 6px; border: 2px solid #77B55A; border-radius: 7px; padding: 10px 18px;" target="_blank" class="btnFollow">郵件論壇</a>
+							<a href="https://sitcon.org/fb" style="display: inline-block; background: #FDFDFD; color: #77B55A; font-family: Helvetica; font-size: 12px; font-weight: bold; text-align: center; text-decoration: none; margin: 5px 6px; border: 2px solid #77B55A; border-radius: 7px; padding: 10px 12px;" target="_blank" class="btnFollow">Facebook 粉絲專頁</a>
+							<a href="https://sitcon.org/tg" style="display: inline-block; background: #FDFDFD; color: #77B55A; font-family: Helvetica; font-size: 12px; font-weight: bold; text-align: center; text-decoration: none; margin: 5px 6px; border: 2px solid #77B55A; border-radius: 7px; padding: 10px 13px;" target="_blank" class="btnFollow">Telegram 群組</a>
+						</td>
+					</tr>
+					<tr>
+						<td style="border: 0px solid black; border-spacing: 0px;">
+							<p style="font-weight: regular; padding: 0; margin: 0 0 34px 0;"></p>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td style="border: 0px solid black; border-spacing: 0px;">
+				<table class="footer" style="border: 0px solid black; border-spacing: 0px; width: 600px; margin: auto;" width="600">
+					<tr>
+						<td style="border: 0px solid black; border-spacing: 0px;">
+							
+								<img src="https://raw.githubusercontent.com/lemonjie/tempStorage/main/Group%208%402x.png" width="100%">
+							
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+</body>
